@@ -2,7 +2,13 @@
 
 Most of the Data sets can be found on following sites:
 
+https://www.kaggle.com/datasets
 
+https://www.kaggle.com/heeraldedhia/groceries-dataset
+
+https://archive.ics.uci.edu/ml/datasets.php
+
+https://archive.ics.uci.edu/ml/datasets/Adult
 
 
 Data science is an incredibly interesting field - not to mention lucrative, with “data scientist” regularly at the top of lists bearing titles like “hottest jobs of 2020”. The ability to use data science in the real world has profound implications for nearly every industry, and it is for this reason that a huge number of companies are looking for programmers who know how to do data science - and conversely, data scientists who know how to program. That’s where Java comes in. As you’ll see in this course, Java for Data Science provides a match made in heaven. Java’s power, flexibility, and popularity make it an incredible tool for the budding data scientist.
