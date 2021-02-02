@@ -1,5 +1,10 @@
 # data-science-with-java
 
+Books recommended by Shaun:
+Data science for Business;
+Data Science Handbook
+
+
 Most of the Data sets can be found on following sites:
 
 https://www.kaggle.com/datasets
